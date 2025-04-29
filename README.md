@@ -74,7 +74,7 @@ fleek login
 fleek projects create
 ```
 
-* This will promt u to enter a project name: Enter anythink u like:
+* This will promt u to enter a project name: Enter anything u like:
 
 
 * 🔺🔺 If u see somethink like that (check ss given below), than dont do anythink, just do next process of `Set up a simple page`
