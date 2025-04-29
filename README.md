@@ -31,7 +31,7 @@ sudo apt install nodejs npm
 # **Install fleek CLI**
 
 ```
-npm install -g @fleek-platform/cli
+sudo npm install -g @fleek-platform/cli
 ```
 
 * Verify the Installation with
